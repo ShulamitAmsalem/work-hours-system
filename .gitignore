@@ -1,0 +1,6 @@
+# Ignore Visual Studio temporary files
+.vs/
+# Node modules
+node_modules/
+# Logs
+*.log
