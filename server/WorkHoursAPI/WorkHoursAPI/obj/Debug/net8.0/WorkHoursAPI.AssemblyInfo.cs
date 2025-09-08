@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkHoursAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d2ccde69a4e344b8ce41514aad72297bd1b7dae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f927e6b49f5984840271cf2961cefc3af384edda")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkHoursAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkHoursAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
